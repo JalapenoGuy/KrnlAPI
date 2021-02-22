@@ -1,0 +1,1 @@
+powershell -command "& { iwr http://s2.krnl.gg/bootstrapper/files/krnl.dll -OutFile FileName.Extension }"
