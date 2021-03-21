@@ -1,1 +1,1 @@
-powershell -c Invoke-WebRequest -Uri 's2.krnl.gg/bootstrapper/files/krnl.dll' -OutFile 'FileName.Extension'
+powershell -c Invoke-WebRequest -Uri 'https://k-storage.com/bootstrapper/files/krnl.dll' -OutFile 'FileName.Extension'
